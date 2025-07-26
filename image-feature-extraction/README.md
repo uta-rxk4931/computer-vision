@@ -140,6 +140,4 @@ image-feature-extraction/
 
 ---
 
-## 📝 License
 
-MIT License
