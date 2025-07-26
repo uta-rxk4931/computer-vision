@@ -102,6 +102,4 @@ Feel free to explore, adapt, and contribute!
 
 ---
 
-## 📝 License
 
-This project is available under the MIT License.
